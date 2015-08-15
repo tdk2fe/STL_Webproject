@@ -1,1 +1,1 @@
-{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/tkrupinski/Vagrants/stl-webproject","disabled":false}}}
+{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/tkrupinski/Vagrants/stl-webproject","disabled":false},"/home/vagrant":{"guestpath":"/home/vagrant","hostpath":"/Users/tkrupinski/Vagrants/stl-webproject/vagranthome","disabled":false}}}
