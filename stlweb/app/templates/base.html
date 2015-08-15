@@ -1,0 +1,14 @@
+<html>
+	<head>
+		{% if title %}
+		<title>{{ title }} - STL Accountability</title>
+		{% else %}
+		<title>STL Accountability</title>
+		{% endif %}
+	</head>
+	<body>
+		<div>Main Menu: <a href="/index">Home</a></div>
+		<hr>
+		{% block content %}{% endblock %}
+	</body>
+</html>
