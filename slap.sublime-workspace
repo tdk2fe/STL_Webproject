@@ -1,0 +1,316 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "stlweb/hello.py",
+			"settings":
+			{
+				"buffer_size": 164,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"commen",
+				"Toggle Comment"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"markdow",
+				"Build: Pandown: Markdown"
+			],
+			[
+				"prev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"edit",
+				"Preferences: MarkdownEditing Settings – User"
+			],
+			[
+				"markdowned",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"synt",
+				"Set Syntax: Markdown"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/tkrupinski/Vagrants/stl-webproject/stlweb"
+	],
+	"file_history":
+	[
+		"/Users/tkrupinski/Vagrants/stl-webproject/stlweb/run.py",
+		"/Users/tkrupinski/Vagrants/stl-webproject/stlweb/app/templates/base.html",
+		"/Users/tkrupinski/Vagrants/stl-webproject/stlweb/app/templates/index.html",
+		"/Users/tkrupinski/Vagrants/stl-webproject/stlweb/app/views.py",
+		"/Users/tkrupinski/Vagrants/stl-webproject/stlweb/app/__init__.py",
+		"/Users/tkrupinski/Vagrants/stl-webproject/stlweb/hello.py",
+		"/Users/tkrupinski/Vagrants/stl-webproject/bootstrap.sh",
+		"/Users/tkrupinski/Vagrants/stl-webproject/Vagrantfile",
+		"/Users/tkrupinski/Applications/Chrome Apps.localized/app_list.app/Contents/Info.plist",
+		"/Users/tkrupinski/Downloads/SageLogix-old.pcf",
+		"/Users/tkrupinski/blog/tdk2fe.github.io/_includes/header.html",
+		"/Users/tkrupinski/blog/tdk2fe.github.io/about.html",
+		"/Users/tkrupinski/blog/tdk2fe.github.io/_includes/head.html",
+		"/Users/tkrupinski/blog/tdk2fe.github.io/_layouts/tag_index.html",
+		"/Users/tkrupinski/blog/tdk2fe.github.io/_site/about.html",
+		"/Users/tkrupinski/blog/tdk2fe.github.io/_includes/sidebar.html",
+		"/Users/tkrupinski/blog/tdk2fe.github.io/_plugins/_tag_gen.rb",
+		"/Users/tkrupinski/blog/tdk2fe.github.io/_layouts/default.html",
+		"/Users/tkrupinski/blog/tdk2fe.github.io/_config.yml",
+		"/Users/tkrupinski/blog/jkblog/_config.yml",
+		"/Users/tkrupinski/Downloads/venom.sh.asc",
+		"/Users/tkrupinski/Google Drive/Personal Projects/admin_tools_testdisks.txt",
+		"/Users/tkrupinski/Google Drive/Customers/Delta Dental/Customer Documentation/OEM Information.txt",
+		"/Users/tkrupinski/Documents/ovm_host_multipath.conf",
+		"/Users/tkrupinski/Downloads/reports_and_output/lscmd.out",
+		"/Users/tkrupinski/vm.cfg",
+		"/Users/tkrupinski/Downloads/12316083/u12316083.drv",
+		"/Users/tkrupinski/Documents/host_status.sh",
+		"/Users/tkrupinski/Vagrants/centos7-v1/soracron",
+		"/Users/tkrupinski/Google Drive/Sungard Contract Renewal Letter",
+		"/Users/tkrupinski/Google Drive/toney sitler: 303-791-4950",
+		"/Users/tkrupinski/Library/Application Support/Sublime Text 3/Packages/Pandown/README.mdown",
+		"/Users/tkrupinski/Documents/tbio",
+		"/Users/tkrupinski/Vagrants/centos7-v1/texasbio-outline.md",
+		"/Users/tkrupinski/Vagrants/centos7-v1/Vagrantfile",
+		"/Users/tkrupinski/Desktop/thinclone-snippets.txt",
+		"/Users/tkrupinski/Desktop/CPU0 - 8 DIMM slots (filled with 16GB DIMMS)",
+		"/Users/tkrupinski/Google Drive/WorkShare/vmware missed questions.tx",
+		"/Users/tkrupinski/Google Drive/Customers/Delta Dental/Customer Documentation/Training Cirriculum/Linux Session 2 Training Material/notes from mac/dailychp.sh",
+		"/Users/tkrupinski/Google Drive/Customers/Delta Dental/Customer Documentation/Training Cirriculum/Session 2 Training/Scripts/toney-example.sh",
+		"/Users/tkrupinski/Downloads/sudosh-1.6.3/aclocal.m4",
+		"/Volumes/tkrupinski/Documents/ovm_vmmessage_create.sh",
+		"/Users/tkrupinski/Downloads/NewEnvironmentfromTemplate.rtf",
+		"/Users/tkrupinski/Downloads/SageLogix.pcf",
+		"/Users/tkrupinski/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/Markdown (Standard).sublime-settings",
+		"/Users/tkrupinski/Documents/Documentation/OVM From Template to Environment/.customerdocs.sublime-project"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"		<",
+			"Links",
+			"109",
+			"009",
+			"			#",
+			"CRONUSER",
+			"CONFIRM_ME",
+			"about to"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "stlweb/hello.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 164,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"wrap_width": 80
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 94.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "slap.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"OVM From Template to Environment/contributors.txt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 174.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
